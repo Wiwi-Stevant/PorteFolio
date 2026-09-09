@@ -18,9 +18,9 @@ section {
 
 #infoActi {
     border: double 5px #000000;
-    padding: 20px;
+    padding: 10px;
     display: none;
-    margin: 50px;
+    margin-left: 50px;
 }
 
 th {

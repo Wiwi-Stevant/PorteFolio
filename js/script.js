@@ -1,5 +1,6 @@
 //variable globales
 let statuDetail = "";
+let statusVoyage = true;
 
 // utiliraies
 function getelem(id) {
@@ -117,4 +118,19 @@ function details(nom) {
             }
         })
         .catch(error => console.error("Erreur lors du chargement du JSON:", error));
+}
+
+function EF() {
+    if (statusVoyage == true) {
+        getelem("HTT").innerHTML = parseFloat(getelem("HTT").innerHTML) - 672;
+        statusVoyage = false;
+        getelem("voyageBtn").innerHTML = "Ajouter les voyages";
+        return;
+    }
+    if (statusVoyage == false) {
+        getelem("HTT").innerHTML = parseFloat(getelem("HTT").innerHTML) + 672;
+        statusVoyage = true;
+        getelem("voyageBtn").innerHTML = "Retirer les voyages";
+        return;
+    }
 }
