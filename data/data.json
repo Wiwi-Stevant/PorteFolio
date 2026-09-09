@@ -1,0 +1,127 @@
+{
+    "Challenge": [
+        {
+            "nom": "Hackaton",
+            "heurs": 48,
+            "annee": "1",
+            "date": "27/10/2024",
+            "img": "../img/hackaton 2024/hackaton2024.png",
+            "description": "Avec une équipes constituer principalement de TI mais de toutes les années, nous avons tenter d'automatiser les points d'un kiker et pouvoir mettre un classement en ligne sur un site."
+        },
+        {
+            "nom": "Cyber Security Challenge",
+            "heurs": 24,
+            "annee": "1",
+            "date": "14/3/2025",
+            "img": "../img/cscbe/csc2025.png",
+            "description": "Avec des amis de classe nous avons créé la \"TEAM Seconde Sess\" et avons jouer le jeu a font pour trouver le plus de flags possible. Nous sommes arrivés a la 192eme place !"
+        },
+        {
+            "nom": "Hackaton 2",
+            "heurs": 48,
+            "annee": "2",
+            "date": "26/10/2025",
+            "img": "../img/",
+            "description": "Avec mon équipe, nous avons tenter de réparer et d'ameliorer un vieux robot en le controlant via un site web."
+        }
+    ],
+
+    "ActiviteOpenLab": [
+        {
+            "nom": "Let Fix It",
+            "heurs": 4,
+            "annee": "1",
+            "date": "18/3/2025",
+            "img": "../img/LetFixIT/letfixit2025.png",
+            "description": "Durant l'activité Let Fix it, j'ai participer a l'activité de démontage de téléphone (qui m'a pris la plus grosse patie du temps). j'ai ensuite été voir quelques autres activité."
+        },
+        {
+            "nom": "Atelier IA",
+            "heurs": 1,
+            "annee": "1",
+            "date": "8/4/2025",
+            "img": "../img/atelierIA/ia.png",
+            "description": "Pour mieux comprendre l'enjeu deriere les IA, j'ai décider de m'inscrir a l'atelier et discussion sur l'IA de Monsieur de Smet."
+        }
+    ],
+    "Anglais": [
+        {
+            "nom": "EF Manchester",
+            "heurs": 336,
+            "annee": "1",
+            "date": "6/7/2025",
+            "img": "../img/EF manchester/certificat .png",
+            "description": "Pour me permettre d'avoir un niveau suffisant en anglais, je suis parti a Manchester dans une famille d'acuille pour suivre les cours d'anglais de EF."
+        },
+        {
+            "nom": "EF Dublin",
+            "heurs": 336,
+            "annee": "2",
+            "date": "12/7/2025",
+            "img": "../img/EF manchester/IMG_5456.png",
+            "description": "Pour me permettre d'avoir un niveau suffisant en anglais, je suis parti a Manchester dans une famille d'acuille pour suivre les cours d'anglais de EF."
+        }
+    ],
+    "Formations": [
+        {
+            "nom": "Midi-outil(s) IA : NotebookLM",
+            "heurs": 0.5,
+            "annee": "2",
+            "date": "23/10/2025",
+            "img": "../img/apres midi ia/NBLM.png",
+            "description": "Sur un temps de midi, j'ai assisté a un atelier sur NotebookLM, un outil d'IA permettant de créer des notebooks intelligents."
+        },
+        {
+            "nom": "Midi-outil(s) IA : Les langues",
+            "heurs": 0.5,
+            "annee": "2",
+            "date": "26/11/2025",
+            "img": "../img/apres midi ia/langueAI.png",
+            "description": "Sur un temps de midi, j'ai assisté a un atelier sur l'apprentiage des langues avec l'IA."
+        },
+        {
+            "nom": "Midi-outil(s) IA : comment choisir son IA ?",
+            "heurs": 0.5,
+            "annee": "2",
+            "date": "10/12/2025",
+            "img": "../img/apres midi ia/choisirsonia.png",
+            "description": "Sur un temps de midi, j'ai assisté a un atelier sur le choix de l'IA la plus adapté a nos besoins."
+        },
+        {
+            "nom": "Introduction à l’IoT (IdO) et à la transformation digitale",
+            "heurs": 6,
+            "annee": "2",
+            "date": "30/1/2026",
+            "img": "../img/formation/Screenshot 2026-01-30 152644.png",
+            "description": "étant intéressé par l'IoT, j'ai suivi la formation de Cisco pour découvrir plus en profondeur, le monde de l'IoT."
+        }
+    ],
+    "Tutorat": [
+        {
+            "nom": "Tutorat",
+            "heurs": 15.75,
+            "annee": "2",
+            "date": "",
+            "img": "../img/",
+            "description": "J'ai donné des cours de logique et de programmation orienté web théorie a des élèves de Bac 1."
+        }
+    ],
+    "Softskill": [
+        {
+            "nom": "Ultimate",
+            "heurs": 10,
+            "annee": "1",
+            "date": "13/11/2024",
+            "img": "../img/ultimate/ultimate.png",
+            "description": "j'ai décidé de rejoindre l'équipe d'ultimate de l'ephec et suivre avec eux des entrainement Lundi et Mercredi."
+        },
+        {
+            "nom": "Délégué",
+            "heurs": 10,
+            "annee": "2",
+            "date": "13/11/2025",
+            "img": "",
+            "description": "j'ai décidé de rejoindre l'équipe d'ultimate de l'ephec et suivre avec eux des entrainement Lundi et Mercredi."
+        }
+    ]
+}
