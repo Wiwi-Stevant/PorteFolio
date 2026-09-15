@@ -28,7 +28,7 @@
 
     "ActiviteOpenLab": [
         {
-            "nom": "Let Fix It",
+            "nom": "Let Fix It 2025",
             "heurs": 4,
             "annee": "1",
             "date": "18/3/2025",
@@ -42,6 +42,14 @@
             "date": "8/4/2025",
             "img": "../img/atelierIA/ia.png",
             "description": "Pour mieux comprendre l'enjeu deriere les IA, j'ai décider de m'inscrir a l'atelier et discussion sur l'IA de Monsieur de Smet."
+        },
+        {
+            "nom": "Let Fix It 2026",
+            "heurs": 3,
+            "annee": "2",
+            "date": "18/3/2026",
+            "img": "../img/LetFixIT/lfi2026.jpg",
+            "description": "Durant l'activité Let Fix it, j'ai participer a l'activité de démontage de téléphone (qui m'a pris la plus grosse patie du temps). j'ai ensuite été voir quelques autres activité."
         }
     ],
     "Anglais": [
@@ -99,7 +107,7 @@
     "Tutorat": [
         {
             "nom": "Tutorat",
-            "heurs": 15.75,
+            "heurs": 27.75,
             "annee": "2",
             "date": "",
             "img": "../img/",
