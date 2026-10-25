@@ -23,6 +23,14 @@
             "date": "26/10/2025",
             "img": "../img/",
             "description": "Avec mon équipe, nous avons tenter de réparer et d'ameliorer un vieux robot en le controlant via un site web."
+        },
+        {
+            "nom": "Hackaton 3",
+            "heurs": 48,
+            "annee": "3",
+            "date": "25/10/2026",
+            "img": "../img/",
+            "description": "Pour mon dernier hackaton, nous avons décidé de transformer un vieux cale porte hibou en un duolingo en y intégrant un microfone et un haut parleur pour pouvoir interagir avec lui."
         }
     ],
 
@@ -102,6 +110,14 @@
             "date": "30/1/2026",
             "img": "../img/formation/Screenshot 2026-01-30 152644.png",
             "description": "étant intéressé par l'IoT, j'ai suivi la formation de Cisco pour découvrir plus en profondeur, le monde de l'IoT."
+        },
+        {
+            "nom": "Be Maker : Learn Arduino, ESP32, Robotics, IoT and AI.",
+            "heurs": 6,
+            "annee": "3",
+            "date": "9/9/2026",
+            "img": "../img/formation/",
+            "description": ""
         }
     ],
     "Tutorat": [
@@ -110,7 +126,7 @@
             "heurs": 27.75,
             "annee": "2",
             "date": "",
-            "img": "../img/",
+            "img": "../img/tutora/tutora.png",
             "description": "J'ai donné des cours de logique et de programmation orienté web théorie a des élèves de Bac 1."
         }
     ],
